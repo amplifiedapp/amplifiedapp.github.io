@@ -15,20 +15,20 @@ author:
   image: amplified.png
 ---
 
-Couple of months ago, we were having a problem: We don't have a cool way to share our rehearsals.
+A couple of months ago, we were having a problem: We didn't have a cool way to share our rehearsals.
 
-We started with email. Someone record the rehearsal, sent it via email, and later we start discussing, creating long and annoying conversations (We found the web version of gmail has a limit of 100 mail per conversation).
+We had started with email. Someone record the rehearsal, emailed it to the rest of the band and we would start discussing it, creating long and annoying conversations (also, we found the web version of gmail has a 100 email limit per conversation).
 
 <!-- more -->
 
-Then we continue using [Dropbox](https://www.dropbox.com), saving some MB from our email storage limit, but still having the problem of the long conversation.
+After that we switched to using [Dropbox](https://www.dropbox.com), allowing us to save some MB from our email storage quota, but this did not fix our long conversations via email.
 
-If someone of the band wanted to find some specific comment, he/she need to read every single message of a conversation to find what he/she wanted. That's not cool!
+This was not the end of our troubles, if someone in the band wanted to find a particular comment then they had to go over the entire conversation over and over again until they could find what they wanted. Clicking on emails in the thread at random to find what you want is totally uncool!
 
-Meet [Amplified](http://www.amplifiedapp.com), the best tool to enhance your rehearsals.
+Enter [Amplified](http://www.amplifiedapp.com), the best tool you can use to enhance your rehearsals.
 
-When you record a rehearsal, upload it to dropbox and we will take care of sorting the discussions for every rehearsal of every song.
+When you record a rehearsal you can now simply upload it to dropbox and we will take care of sorting out the discussion for every rehearsal of every song.
 
-Want to give us a try? just head to [http://www.amplifiedapp.com](http://www.amplifiedapp.com) and register for the private beta. We're giving access gradually to control the quality of the application. Be patient! We know that the wait will worth it.
+Sounds interesting? Want to give us a try? just head on to [http://www.amplifiedapp.com](http://www.amplifiedapp.com) and register for the private beta. We’re giving access gradually to control the quality of the application. Be patient! We promise that it will be more than worth the wait.
 
-And remember to follow us on [Twitter](http://www.twitter.com/amplifiedapp) and [Facebook](http://www.facebook.com/amplifiedapp).
+And don't forget to follow us on [Twitter](http://www.twitter.com/amplifiedapp) and [Facebook](http://www.facebook.com/amplifiedapp) to stay updated on all things [Amplified](http://www.amplifiedapp.com).
