@@ -1,0 +1,39 @@
+---
+layout: post
+
+title: JSConf Uruguay 2015
+subtitle: "Talk about Functional Reactive Programming for webapps"
+cover_image: newton_pendulum.jpeg
+
+categories: [our-talks]
+
+author:
+  name: Amplified
+  link: "mailto: hello@amplifiedapp.com"
+  twitter: amplifiedapp
+  bio: Amplified
+  image: amplified.png
+---
+
+We had the opportunity to be speaking again in JSConf Uruguay this year, and we decided to talk about functional reactive programming,
+given that our Rehearsed Song component is written using FRP.
+
+<!-- more -->
+
+<a href="http://jsconf.uy" target="_blank">JSConf Uruguay</a> was a great place to show what we're doing, because there was more than 350 assistants hearing our talk.
+
+To prepare the talk we used ideas borrowed from different articles and talks that we want to share with you:
+
+* <a href="https://github.com/evancz/elm-architecture-tutorial" target="_blank">Elm Architecture Tutorial</a>
+* <a href="https://github.com/staltz/cycle" target="_blank">Cycle.js</a>
+* <a href="https://gist.github.com/staltz/868e7e9bc2a7b8c1f754" target="_blank">Introduction to reactive programming</a>
+* <a href="https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877" target="_blank">2 minutes introduction</a>
+* <a href="http://futurice.com/blog/reactive-mvc-and-the-virtual-dom" target="_blank">Reactive MVC and the Virtual DOM</a>
+* <a href="https://www.youtube.com/watch?v=rI0GQc__0SM" target="_blank">Decomplexifying Code With React - Steve Luscher</a>
+* <a href="http://rxmarbles.com/" target="_blank">Rx Marbles</a>
+
+If you missed the conference but you're interested in the topic, Don't Panic! here are the slides:
+
+{% speakerdeck d57345421e164f6c8800077296ff0487 %}
+
+Stay tuned! soon you'll find the video too.
