@@ -34,6 +34,6 @@ To prepare the talk we used ideas borrowed from different articles and talks tha
 
 If you missed the conference but you're interested in the topic, Don't Panic! here are the slides:
 
-{% speakerdeck d57345421e164f6c8800077296ff0487 %}
+<script async class="speakerdeck-embed" data-id="d57345421e164f6c8800077296ff0487" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 Stay tuned! soon you'll find the video too.
