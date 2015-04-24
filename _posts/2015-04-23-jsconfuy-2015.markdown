@@ -36,4 +36,6 @@ If you missed the conference but you're interested in the topic, Don't Panic! he
 
 <script async="true" class="speakerdeck-embed" data-id="d57345421e164f6c8800077296ff0487" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
+You also can [fetch the code](https://github.com/amplifiedapp/jsconfuy-2015) from our repo and play with it!
+
 Stay tuned! soon you'll find the video too.
